@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  background-color: lightcyan;
+}
+button {
+  margin: 1rem 0.5rem;
+  padding: 0.7rem 1rem;
+  color: red;
+  border: 1px solid red;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+button:hover {
+  background-color: floralwhite;
+}
+hr {
+  max-width: 90%;
+}
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid lightgrey;
+  width: 70%;
+  margin: 1rem 0rem;
+  border-radius: 1rem;
+}
+ul {
+  padding-block-start: 7px;
+  margin-inline-start: 30px;
+}
